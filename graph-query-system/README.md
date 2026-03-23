@@ -79,4 +79,4 @@ Example:
 - "Trace order flow"
 ---
 ## Demo
-👉 Add your deployed link here:
+https://graph-query-system-74jbzggzmq98f99zcrfupx.streamlit.app/
