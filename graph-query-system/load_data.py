@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 import glob
-DATA_DIR = "data"
+DATA_DIR = "graph-query-system/data"
 
 def load_table(folder_name):
     folder_path = os.path.join(DATA_DIR, folder_name)
