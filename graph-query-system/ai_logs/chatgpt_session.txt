@@ -1,0 +1,35 @@
+AI-Assisted Development Summary
+
+I used AI tools (ChatGPT) as a development assistant throughout the project. Below is a summary of how AI was used effectively:
+
+1. Problem Understanding
+- Clarified requirements of graph-based data modeling
+- Understood how to convert relational data into graph structures
+
+2. Data Processing
+- Debugged file loading issues (JSONL format handling)
+- Fixed directory structure problems
+
+3. Graph Modeling
+- Designed node and edge relationships (Order → Item → Product)
+- Improved graph structure for meaningful traversal
+
+4. Query System
+- Implemented natural language query handling
+- Designed intent detection logic for user queries
+
+5. Graph Traversal
+- Added traversal logic to trace relationships across entities
+- Enabled flow-based queries (order → item → product)
+
+6. UI Development
+- Built Streamlit interface
+- Integrated graph visualization using Pyvis
+- Improved layout and user experience
+
+7. Debugging & Optimization
+- Fixed import errors and runtime issues
+- Improved code structure and modularity
+
+Conclusion:
+AI was used as a collaborative assistant for debugging, structuring, and improving the system. All final design decisions and implementation understanding were done consciously.
